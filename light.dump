@@ -1,0 +1,16 @@
+State 1:
+/\ light = "red"
+/\ pc = "Green"
+
+State 2:
+/\ light = "red"
+/\ pc = "Green"
+
+State 3:
+/\ light = "green"
+/\ pc = "Yellow"
+
+State 4:
+/\ light = "yellow"
+/\ pc = "Red"
+
